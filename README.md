@@ -91,3 +91,13 @@ O pipeline do GitHub Actions executa automaticamente a cada push ou PR para `mai
     └── workflows/
         └── ci-cd.yml              # Pipeline CI/CD
 ```
+## 👨‍💻 Autor: Danilo Gabriel do Nascimento!
+
+<div align="center">
+
+Feito **Atividade Somativa 1**
+
+[![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+
+</div>
+
